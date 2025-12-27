@@ -45,8 +45,8 @@ numeric_features = [
 
 # List of categorical features in the dataset
 categorical_features = [
-    'TypeofContact',  # The method by which the customer was contacted (Company Invited or Self Inquiry) 
-    'Occupation',     # Customer's occupation (e.g., Salaried, Freelancer) 
+    'TypeofContact',  # The method by which the customer was contacted (Company Invited or Self Inquiry)
+    'Occupation',     # Customer's occupation (e.g., Salaried, Freelancer)
     'Gender',         # Gender of the customer (Male, Female).
     'ProductPitched', # The type of product pitched to the customer.
     'MaritalStatus',  # Marital status of the customer (Single, Married, Divorced).
